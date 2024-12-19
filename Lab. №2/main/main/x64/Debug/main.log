@@ -1,0 +1,101 @@
+﻿  Factory.cpp
+  main.cpp
+  Tetragon.cpp
+  Triangle.cpp
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.cpp(46,26): error C2248: Triangle::x1_: невозможно обратиться к protected член, объявленному в классе "Triangle"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(13,12):
+       см. объявление "Triangle::x1_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(4,7):
+       см. объявление "Triangle"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.cpp(46,46): error C2248: Triangle::y1_: невозможно обратиться к protected член, объявленному в классе "Triangle"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(13,17):
+       см. объявление "Triangle::y1_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(4,7):
+       см. объявление "Triangle"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.cpp(47,26): error C2248: Triangle::x2_: невозможно обратиться к protected член, объявленному в классе "Triangle"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(13,22):
+       см. объявление "Triangle::x2_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(4,7):
+       см. объявление "Triangle"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.cpp(47,46): error C2248: Triangle::y2_: невозможно обратиться к protected член, объявленному в классе "Triangle"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(13,27):
+       см. объявление "Triangle::y2_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(4,7):
+       см. объявление "Triangle"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.cpp(48,26): error C2248: Triangle::x3_: невозможно обратиться к protected член, объявленному в классе "Triangle"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(13,32):
+       см. объявление "Triangle::x3_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(4,7):
+       см. объявление "Triangle"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.cpp(48,46): error C2248: Triangle::y3_: невозможно обратиться к protected член, объявленному в классе "Triangle"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(13,37):
+       см. объявление "Triangle::y3_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(4,7):
+       см. объявление "Triangle"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.cpp(45,16): error C2660: Tetragon::DoPolygonsIntersect: функция не принимает 14 аргументов
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(21,17):
+       см. объявление "Tetragon::DoPolygonsIntersect"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.cpp(45,16):
+      при попытке сопоставить список аргументов "(const double, const double, const double, const double, const double, const double, const double, const double, const double, const double, const double, const double, const double, const double)"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.cpp(43,26): error C2248: Tetragon::x1_: невозможно обратиться к protected член, объявленному в классе "Tetragon"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(14,12):
+       см. объявление "Tetragon::x1_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(4,7):
+       см. объявление "Tetragon"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.cpp(43,46): error C2248: Tetragon::y1_: невозможно обратиться к protected член, объявленному в классе "Tetragon"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(14,17):
+       см. объявление "Tetragon::y1_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(4,7):
+       см. объявление "Tetragon"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.cpp(44,26): error C2248: Tetragon::x2_: невозможно обратиться к protected член, объявленному в классе "Tetragon"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(14,22):
+       см. объявление "Tetragon::x2_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(4,7):
+       см. объявление "Tetragon"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.cpp(44,46): error C2248: Tetragon::y2_: невозможно обратиться к protected член, объявленному в классе "Tetragon"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(14,27):
+       см. объявление "Tetragon::y2_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(4,7):
+       см. объявление "Tetragon"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.cpp(45,26): error C2248: Tetragon::x3_: невозможно обратиться к protected член, объявленному в классе "Tetragon"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(14,32):
+       см. объявление "Tetragon::x3_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(4,7):
+       см. объявление "Tetragon"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.cpp(45,46): error C2248: Tetragon::y3_: невозможно обратиться к protected член, объявленному в классе "Tetragon"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(14,37):
+       см. объявление "Tetragon::y3_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(4,7):
+       см. объявление "Tetragon"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.cpp(46,26): error C2248: Tetragon::x4_: невозможно обратиться к protected член, объявленному в классе "Tetragon"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(14,42):
+       см. объявление "Tetragon::x4_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(4,7):
+       см. объявление "Tetragon"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.cpp(46,46): error C2248: Tetragon::y4_: невозможно обратиться к protected член, объявленному в классе "Tetragon"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(14,47):
+       см. объявление "Tetragon::y4_"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Tetragon.h(4,7):
+       см. объявление "Tetragon"
+  
+C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.cpp(42,16): error C2660: Triangle::DoPolygonsIntersect: функция не принимает 14 аргументов
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.h(20,17):
+       см. объявление "Triangle::DoPolygonsIntersect"
+      C:\Users\Михаил Туленков\Desktop\OOP_c++\Lab. №2\main\main\Triangle.cpp(42,16):
+      при попытке сопоставить список аргументов "(const double, const double, const double, const double, const double, const double, const double, const double, const double, const double, const double, const double, const double, const double)"
+  
+  Создание кода...

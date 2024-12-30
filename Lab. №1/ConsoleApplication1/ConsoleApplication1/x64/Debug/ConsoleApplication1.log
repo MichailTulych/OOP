@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Matrix.cpp
+C:\Users\tulen\Desktop\Laboratornaja1\ConsoleApplication1\ConsoleApplication1\Matrix.cpp(13,58): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\tulen\Desktop\Laboratornaja1\ConsoleApplication1\ConsoleApplication1\Matrix.cpp(13,77): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  ConsoleApplication1.vcxproj -> C:\Users\tulen\Desktop\Laboratornaja1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
